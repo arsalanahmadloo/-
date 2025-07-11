@@ -3,7 +3,7 @@ from telegram import Update, KeyboardButton, ReplyKeyboardMarkup, InlineKeyboard
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext, CallbackQueryHandler
 from handlers import db, force_sub, downloader, admin_panel, security
 
-TOKEN = "توکن_ربات_خودت_اینجا"
+TOKEN = "7775250276:AAGZqjnyMOc5w8n0C1sx6Ghypq-QRwtiqeQ"
 ADMIN_ID = 5784688641
 FORCE_SUB_CHANNEL = "DownloadKing_Arsalan"
 
